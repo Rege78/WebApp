@@ -1,3 +1,3 @@
-# TeslaWebApp
+# WebApp
 
-simple app to test tesla browser
+simple app to test App browser
